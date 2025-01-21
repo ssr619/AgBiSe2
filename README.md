@@ -30,4 +30,4 @@ And the symmetry of the conventional cell(R-3m) is changed compared with the CON
 ![image](https://github.com/ssr619/AgBiSe2/blob/main/pictures/739638b1b8d5e6214312913ab447a71.png)
 
 And I want to know how to make the symmetry unchanged when construct the supercell.
-*If you want to know more details about the problem ,please tell me.
+*  If you want to know more details about the problem , please tell me.
