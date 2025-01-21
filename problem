@@ -1,0 +1,6 @@
+#I have used the Pydefect to calculate the defect formation energy of the material AgBiSe2
+when I use the code 
+```
+pydefect s -p ../unitcell/structure_opt/CONTCAR --matrix 2 1 1
+```
+wraning appears, like the following
