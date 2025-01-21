@@ -14,7 +14,8 @@ But when I use above command to construct supcell by the conventional cell
 pydefect s -p CONTCAR_conventional --matrix 2 1 1
 ```
 The warning also appears.
-![image]
+![image](https://github.com/ssr619/AgBiSe2/blob/main/pictures/20250121174507.png)
 And the symmetry of the conventional cell(R-3m) is changed compared with the CONTCAR(P-3m1)
-![image]
-![image]
+![image](https://github.com/ssr619/AgBiSe2/blob/main/pictures/afe11d8f54826ecd40a4b3637bee1ad.png)
+![image](https://github.com/ssr619/AgBiSe2/blob/main/pictures/739638b1b8d5e6214312913ab447a71.png)
+I want to know how to make the symmetry unchanged when construct the supercell.
