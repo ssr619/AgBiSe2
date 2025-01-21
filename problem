@@ -4,7 +4,7 @@ when I use the code
 pydefect s -p ../unitcell/structure_opt/CONTCAR --matrix 2 1 1
 ```
 warning appears, like the following
-![image]
+![image](https://github.com/ssr619/AgBiSe2/blob/main/pictures/99550b68745e9b2c5d96a148a736f70.png)
 Then I use the code to find the conventional cell of CONTCAR
 ```bash
 vise si -p ../unitcell/structure_opt/CONTCAR -c
